@@ -1,5 +1,5 @@
-name = "Alex"
-age = 25
+name = "malou"
+age = 29
 favourite_language = "Python"
 goal = "build useful programs"
 
